@@ -1,0 +1,32 @@
+body {
+    background-color: cadetblue;
+    font-family: sans-serif;
+}
+.s1 {
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    color: crimson;
+    text-align: center;
+}
+
+.s2 {
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+
+.s3 {
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+
+.s4 {
+    margin-left: 200px;
+}
